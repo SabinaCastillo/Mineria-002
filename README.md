@@ -9,6 +9,6 @@
 
 Ejercicios II
 
-Mapa Mental II
+[Mapa Mental II](https://github.com/SabinaCastillo/Mineria-002/blob/master/MapaMental_2_1804029.pdf)
 
-Resumenes
+[Resumenes](https://github.com/SabinaCastillo/Mineria-002/blob/master/Resumenes_1804029.pdf)
