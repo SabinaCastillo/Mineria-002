@@ -20,3 +20,7 @@ Ejercicios II
 [Ejercicos Básicos de Python](https://github.com/SabinaCastillo/Mineria-002/blob/master/PythonBasico_1804029.ipynb)
 
 [Avance 1 PIA](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/Avance1_PIA_04_Gpo002.pdf)
+
+[Ejercicio limpieza de datos](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/Practica_1_Limpieza.ipynb)
+
+[Ejercicio Visualización](https://github.com/Ragres/Mineria-de-datos-FCFM/blob/master/Ejercicio_Visualizacio%CC%81n_Equipo4.ipynb)
