@@ -24,3 +24,5 @@ Ejercicios II
 [Ejercicio limpieza de datos](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/Practica_1_Limpieza.ipynb)
 
 [Ejercicio Visualización](https://github.com/Ragres/Mineria-de-datos-FCFM/blob/master/Ejercicio_Visualizacio%CC%81n_Equipo4.ipynb)
+
+[Avance 2 PIA](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/AvancePIA_II_002_Equipo4.ipynb)
