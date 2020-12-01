@@ -1,0 +1,11 @@
+datos=read.csv("Datos mejorados.csv")
+nombres=datos[,2]
+Estados=datos[,80]
+datos=datos[,3:79]
+datos.scaled=as.data.frame(scale(datos))
+km=kmeans(datos.scaled,15)
+library(factoextra)
+fviz_cluster(km,data=datos.scaled)
+a=km$cluster
+c=data.frame(nombres,Estados)
+c[a==2,]
