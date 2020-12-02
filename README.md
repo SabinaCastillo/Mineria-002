@@ -29,4 +29,5 @@ Ejercicios II
 
 ## Fase 3
 [PIA Póster](https://github.com/SabinaCastillo/Mineria-002/blob/master/PIA/PIA_Equipo%204_Gpo2.pdf)
+
 [PIA Anexos](https://github.com/SabinaCastillo/Mineria-002/tree/master/PIA)
