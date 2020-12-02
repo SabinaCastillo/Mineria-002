@@ -26,3 +26,7 @@ Ejercicios II
 [Ejercicio Visualización](https://github.com/Ragres/Mineria-de-datos-FCFM/blob/master/Ejercicio_Visualizacio%CC%81n_Equipo4.ipynb)
 
 [Avance 2 PIA](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/AvancePIA_II_002_Equipo4.ipynb)
+
+## Fase 3
+[PIA Póster](https://github.com/SabinaCastillo/Mineria-002/blob/master/PIA/PIA_Equipo%204_Gpo2.pdf)
+[PIA Anexos]
